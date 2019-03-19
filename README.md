@@ -26,7 +26,7 @@ A Multi-task learning model for 5 classification tasks on Hate Speech dataset wi
 		To save the log files of the training and evaluation, you need to create a directory (e.g., log/) with four sub-directories inside, whose names are exactly MTML/, MTSL/, STML/ and STSL/.Then you need to specify the directory (e.g., log/) in the --log-dir argumnet in the command line.
 
 
-#Example usage:
+# Example usage:
 
 	python run_sluice_net.py --dynet-autobatch 1  --dynet-gpus 3 --dynet-seed 123 \
                           --h-layers 1 \
