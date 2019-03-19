@@ -1,0 +1,2 @@
+embeds,h_dim,cross_stitch_init,constraint_weight,sigma,group-train-micro-f1,group-dev-micro-f1,group-test-micro-f1,group-train-macro-f1,group-dev-macro-f1,group-test-macro-f1
+babylon,200,imbalanced,0.1,0.2,0.4962640099626401,0.5635910224438903,0.5935162094763092,0.18504470073184567,0.25199423919550756,0.21452280990248623

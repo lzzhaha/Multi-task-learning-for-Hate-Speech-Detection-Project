@@ -1,0 +1,2 @@
+embeds,h_dim,cross_stitch_init,constraint_weight,sigma,target-train-micro-f1,target-dev-micro-f1,target-test-micro-f1,target-train-macro-f1,target-dev-macro-f1,target-test-macro-f1
+babylon,200,imbalanced,0.1,0.2,0.7756762700681769,0.6854545454545454,0.68,0.6053159631334898,0.4734767176284279,0.4219725683095965

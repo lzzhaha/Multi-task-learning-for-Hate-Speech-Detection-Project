@@ -1,0 +1,2 @@
+embeds,h_dim,cross_stitch_init,constraint_weight,sigma,annotator_sentiment-train-micro-f1,annotator_sentiment-dev-micro-f1,annotator_sentiment-test-micro-f1,annotator_sentiment-train-macro-f1,annotator_sentiment-dev-macro-f1,annotator_sentiment-test-macro-f1
+babylon,200,imbalanced,0.1,0.2,0.3544039042528468,0.4995140913508261,0.5024826216484607,0.02558253140903119,0.024910255647448483,0.024562754595383332

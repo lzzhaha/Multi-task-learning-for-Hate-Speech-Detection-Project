@@ -1,0 +1,2 @@
+embeds,h_dim,cross_stitch_init,constraint_weight,sigma,sentiment-train-micro-f1,sentiment-dev-micro-f1,sentiment-test-micro-f1,sentiment-train-macro-f1,sentiment-dev-macro-f1,sentiment-test-macro-f1
+babylon,200,imbalanced,0.1,0.2,0.25444488344527855,0.48267898383371816,0.47863247863247865,0.02343166952017209,0.02989711895833851,0.028914676611153576

@@ -1,0 +1,335 @@
+1.	direct
+2.	direct
+3.	
+4.	
+5.	direct
+6.	direct
+7.	direct
+8.	direct
+9.	
+10.	direct
+11.	direct
+12.	
+13.	
+14.	direct
+15.	direct
+16.	direct
+17.	direct
+18.	direct
+19.	
+20.	direct
+21.	
+22.	direct
+23.	
+24.	
+25.	
+26.	direct
+27.	direct
+28.	direct
+29.	direct
+30.	
+31.	direct
+32.	direct
+33.	direct
+34.	direct
+35.	direct
+36.	
+37.	direct
+38.	direct
+39.	
+40.	direct
+41.	direct
+42.	direct
+43.	
+44.	direct
+45.	direct
+46.	direct
+47.	
+48.	direct
+49.	
+50.	direct
+51.	
+52.	
+53.	direct
+54.	
+55.	direct
+56.	
+57.	direct
+58.	
+59.	direct
+60.	direct
+61.	direct
+62.	
+63.	direct
+64.	direct
+65.	
+66.	direct
+67.	direct
+68.	direct
+69.	direct
+70.	
+71.	direct
+72.	direct
+73.	
+74.	direct
+75.	direct
+76.	
+77.	direct
+78.	direct
+79.	direct
+80.	direct
+81.	direct
+82.	direct
+83.	direct
+84.	
+85.	direct
+86.	direct
+87.	
+88.	
+89.	direct
+90.	
+91.	direct
+92.	direct
+93.	direct
+94.	direct
+95.	direct
+96.	direct
+97.	direct
+98.	
+99.	
+100.	direct
+101.	direct
+102.	direct
+103.	direct
+104.	direct
+105.	direct
+106.	direct
+107.	direct
+108.	direct
+109.	
+110.	direct
+111.	
+112.	direct
+113.	direct
+114.	direct
+115.	direct
+116.	direct
+117.	
+118.	direct
+119.	direct
+120.	
+121.	
+122.	direct
+123.	direct
+124.	
+125.	direct
+126.	direct
+127.	
+128.	
+129.	direct
+130.	direct
+131.	direct
+132.	direct
+133.	direct
+134.	direct
+135.	direct
+136.	direct
+137.	direct
+138.	direct
+139.	direct
+140.	direct
+141.	direct
+142.	direct
+143.	
+144.	
+145.	direct
+146.	
+147.	
+148.	direct
+149.	
+150.	
+151.	direct
+152.	direct
+153.	
+154.	direct
+155.	
+156.	
+157.	direct
+158.	direct
+159.	direct
+160.	direct
+161.	direct
+162.	
+163.	direct
+164.	direct
+165.	direct
+166.	direct
+167.	direct
+168.	direct
+169.	direct
+170.	direct
+171.	direct
+172.	direct
+173.	direct
+174.	
+175.	direct
+176.	direct
+177.	direct
+178.	direct
+179.	direct
+180.	direct
+181.	direct
+182.	direct
+183.	direct
+184.	direct
+185.	
+186.	direct
+187.	
+188.	direct
+189.	direct
+190.	
+191.	direct
+192.	direct
+193.	direct
+194.	direct
+195.	
+196.	direct
+197.	direct
+198.	direct
+199.	direct
+200.	
+201.	
+202.	direct
+203.	direct
+204.	direct
+205.	direct
+206.	direct
+207.	direct
+208.	
+209.	direct
+210.	direct
+211.	direct
+212.	
+213.	
+214.	
+215.	
+216.	
+217.	
+218.	direct
+219.	direct
+220.	direct
+221.	direct
+222.	
+223.	direct
+224.	direct
+225.	
+226.	direct
+227.	
+228.	direct
+229.	direct
+230.	
+231.	direct
+232.	direct
+233.	
+234.	
+235.	
+236.	direct
+237.	direct
+238.	
+239.	
+240.	direct
+241.	direct
+242.	direct
+243.	direct
+244.	direct
+245.	direct
+246.	
+247.	
+248.	direct
+249.	direct
+250.	direct
+251.	direct
+252.	direct
+253.	direct
+254.	direct
+255.	
+256.	
+257.	direct
+258.	
+259.	direct
+260.	
+261.	direct
+262.	direct
+263.	direct
+264.	direct
+265.	
+266.	
+267.	direct
+268.	direct
+269.	direct
+270.	direct
+271.	direct
+272.	
+273.	direct
+274.	direct
+275.	direct
+276.	
+277.	direct
+278.	direct
+279.	direct
+280.	
+281.	direct
+282.	direct
+283.	direct
+284.	
+285.	direct
+286.	direct
+287.	direct
+288.	
+289.	direct
+290.	direct
+291.	
+292.	direct
+293.	
+294.	direct
+295.	direct
+296.	direct
+297.	direct
+298.	direct
+299.	direct
+300.	
+301.	direct
+302.	direct
+303.	direct
+304.	direct
+305.	direct
+306.	
+307.	direct
+308.	direct
+309.	
+310.	direct
+311.	direct
+312.	
+313.	direct
+314.	direct
+315.	direct
+316.	direct
+317.	direct
+318.	direct
+319.	direct
+320.	direct
+321.	direct
+322.	direct
+323.	direct
+324.	
+325.	direct
+326.	direct
+327.	direct
+328.	direct
+329.	direct
+330.	
+331.	
+332.	direct
+333.	direct
+334.	direct
+335.	direct

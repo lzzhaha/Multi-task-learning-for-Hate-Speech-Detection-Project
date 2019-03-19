@@ -1,0 +1,11 @@
+python run_sluice_net.py --dynet-autobatch 1  --dynet-gpus 1 --dynet-seed 123 \
+                          --h-layers 1 \
+                         --cross-stitch\
+                         --num-subspaces 2 --constraint-weight 0.1 \
+                         --constrain-matrices 1 2 --patience 3 \
+                         --languages ar --test-languages ar\
+                         --model-dir model/ --log-dir log4/\
+                         --task-names annotator_sentiment --train-dir '/home/zlinai/MTL/data/multilingual_hate_speech/processed_data/annotated_data/train'\
+                         --dev-dir '/home/zlinai/MTL/data/multilingual_hate_speech/processed_data/annotated_data/dev'\
+                         --test-dir '/home/zlinai/MTL/data/multilingual_hate_speech/processed_data/annotated_data/test'\
+                         --embeds babylon --h-dim 200 --cross-stitch-init-scheme imbalanced --load --threshold 0.1
